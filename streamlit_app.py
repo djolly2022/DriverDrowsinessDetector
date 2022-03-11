@@ -2,7 +2,7 @@ import streamlit as st
 import cv2
 import numpy as np
 import av
-from pygame import mixer
+#from pygame import mixer
 from src.modules.face import Face
 from streamlit_webrtc import webrtc_streamer, RTCConfiguration
 
