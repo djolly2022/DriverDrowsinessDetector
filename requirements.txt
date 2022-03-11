@@ -24,13 +24,13 @@ google-cloud-storage
 #s3fs
 
 # utilities
-PyGTK
-playsound
-libgtk2.0-dev
-six>=1.14
+# PyGTK
+# playsound
+# libgtk2.0-dev
+#six>=1.14
 joblib
-memoized-property
-termcolor
+#memoized-property
+#termcolor
 streamlit_webrtc
 
 # libraries
